@@ -1,0 +1,16 @@
+// all SQL Queries are case-sensitive
+
+// it will going to crate databas named jenil
+CREATE DATABASE jenil;
+
+// to display list of datbases use below command
+SHOW DATABASES;
+
+// to drop existing database use below command;
+DROP DATABASE database_name;
+
+// to access jenil database use below command
+USE jenil;
+
+// to display list of tables write below command
+SHOW TABLES;
