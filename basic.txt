@@ -14,3 +14,5 @@ USE jenil;
 
 // to display list of tables write below command
 SHOW TABLES;
+
+// jerry
